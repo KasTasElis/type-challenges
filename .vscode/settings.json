@@ -57,5 +57,6 @@
     "jsonc",
     "yaml",
     "toml"
-  ]
+  ],
+  "js/ts.tsdk.path": "node_modules/typescript/lib"
 }
